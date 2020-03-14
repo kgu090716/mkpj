@@ -23,7 +23,7 @@ $(document).ready(function(){
         ajax : {
             "url":"https://8oi9s0nnth.apigw.ntruss.com/corona19-masks/v1/storesByAddr/json",
             "type":"GET",
-            "data": { address:"경기도 시흥시"},
+            "data": { address:"adr"},
             'dataSrc':'stores'
         },
         columns : [
