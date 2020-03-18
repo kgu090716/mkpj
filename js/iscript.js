@@ -1,6 +1,6 @@
 function asearch(address){
     address = document.getElementById("search").value;
-    window.location.href="address.html?address="+encodeURI(encodeURIComponent(address));
+    window.location.href="address.html?address="+address;
 }
 
 $(document).ready(function () {
