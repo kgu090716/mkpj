@@ -16,6 +16,9 @@
               <li class="nav-item">
                   <a class="nav-link" href="news.php">뉴스</a>
               </li>
+              <li class="nav-item">
+                  <a class="nav-link" href="about.php">About</a>
+              </li>
           </ul>
       </div>
       </div>

@@ -14,6 +14,9 @@
           <li class="nav-item">
             <a class="nav-link" href="news.php">뉴스</a>
           </li>
+            <li class="nav-item">
+                <a class="nav-link" href="about.php">About</a>
+            </li>
         </ul>
       </div>
     </div>
@@ -28,7 +31,7 @@
               <h4 class="text align-self-center p-3">  <div class="card-body">
                 <p class="card-text">
 <?php
-$string = file_get_contents("https://ncov.zeroday0619.kr/v1/kr/status");
+$string = file_get_contents("https://ncov.zeroday0619.dev/v1/global/status/");
 $json_a = json_decode($string, true);
 echo "사망자 : ";
 echo $json_a['krstatus'][death];
