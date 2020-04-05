@@ -9,7 +9,7 @@
   font-family: 'Godo';
   font-style: normal;
   font-weight: 700;
-  src: url('//cdn.jsdelivr.net/korean-webfonts/1/corps/godo/Godo/GodoB.woff2') format('woff2'), url('//cdn.jsdelivr.net/korean-webfonts/1/corps/godo/Godo/GodoB.woff') format('woff');
+  src: url('//cdn.jsdelivr.net/korean-webfonts/1/corps/godo/Godo/GodoB.woff') format('woff'), url('//cdn.jsdelivr.net/korean-webfonts/1/corps/godo/Godo/GodoB.woff2') format('woff2');
 }
 
 .godo * {
@@ -93,3 +93,16 @@ html, body {
   background: white;
 }
 
+::-moz-selection {
+  color: #000000;
+  background: #D8D8D8;
+  }
+  
+  ::selection {
+  color: #000000;
+  background: #D8D8D8;
+  }
+
+tr {
+  cursor: pointer;
+}

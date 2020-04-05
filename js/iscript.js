@@ -1,6 +1,15 @@
 function asearch(address){
     address = document.getElementById("search").value;
-    window.location.href="address.html?address="+address;
+
+    var agent = navigator.userAgent.toLowerCase();
+
+    if ( (navigator.appName == 'Netscape' && navigator.userAgent.search('Trident') != -1) || (agent.indexOf("msie") != -1) )
+    {
+        window.location.href="address.php?address="+encodeURIComponent(address);
+    }
+    else {
+        window.location.href="address.php?address="+address;
+    }
 }
 
 $(document).ready(function () {
