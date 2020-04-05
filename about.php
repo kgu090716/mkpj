@@ -39,23 +39,33 @@
                                   <div class="card-body">
                                       <h5 class="card-title">#Bootstrap</h5>
                                       <p class="card-text">→홈페이지 디자인</p>
-                                      <p><a href="https://getbootstrap.com/" class="btn btn-primary">홈페이지</a></p>
+                                      <p><a href="https://getbootstrap.com/" class="btn btn-primary">홈페이지</a>
+                                          <a href="https://github.com/twbs/bootstrap/blob/master/LICENSE" class="btn btn-success">License</a></p>
 
                                       <h5 class="card-title">#Datatable</h5>
                                       <p class="card-text">→마스크 조회 데이터 표</p>
-                                      <p><a href="https://datatables.net/" class="btn btn-primary">홈페이지</a></p>
+                                      <p><a href="https://datatables.net/" class="btn btn-primary">홈페이지</a>
+                                      <a href="https://datatables.net/license/mit" class="btn btn-success">License</a></p>
 
                                       <h5 class="card-title">#Font Awesome</h5>
                                       <p class="card-text">→아이콘 사용</p>
-                                      <p><a href="https://fontawesome.com/" class="btn btn-primary">홈페이지</a></p>
+                                      <p><a href="https://fontawesome.com/" class="btn btn-primary">홈페이지</a>
+                                      <a href=" https://fontawesome.com/license/free" class="btn btn-success">License</a></p>
 
                                       <h5 class="card-title">#Jquery</h5>
                                       <p class="card-text">→ajax로 api 불러오기</p>
-                                      <p><a href="https://code.jquery.com/" class="btn btn-primary">홈페이지</a></p>
+                                      <p><a href="https://code.jquery.com/" class="btn btn-primary">홈페이지</a>
+                                          <a href="https://jquery.org/license/" class="btn btn-success">License</a></p>
 
                                       <h5 class="card-title">#jQuery UI</h5>
                                       <p class="card-text">→자동입력 기능 사용</p>
-                                      <p><a href="https://jqueryui.com/" class="btn btn-primary">홈페이지</a></p>
+                                      <p><a href="https://jqueryui.com/" class="btn btn-primary">홈페이지</a>
+                                          <a href="https://github.com/jquery/jquery-ui/blob/master/LICENSE.txt" class="btn btn-success">License</a></p>
+
+                                      <h5 class="card-title">#코로나 api</h5>
+                                      <p class="card-text">→확진자, 뉴스 정보</p>
+                                      <p><a href="https://github.com/zeroday0619/COVID-19API" class="btn btn-primary">홈페이지</a>
+                                          <a href="https://github.com/zeroday0619/COVID-19API/blob/master/LICENSE" class="btn btn-success">License</a></p>
 
                                       <h5 class="card-title">#버튼 디자인 참고</h5>
                                       <p class="card-text">→버튼 디자인</p>
@@ -65,13 +75,9 @@
                                       <p class="card-text">→마스크 api정보</p>
                                       <p><a href="https://www.data.go.kr/dataset/15043025/openapi.do" class="btn btn-primary">홈페이지</a></p>
 
-                                      <h5 class="card-title">#코로나 api</h5>
-                                      <p class="card-text">→확진자, 뉴스 정보</p>
-                                      <p><a href="https://github.com/zeroday0619/COVID-19API" class="btn btn-primary">홈페이지</a></p>
-
                                       <h5 class="card-title">#고도체</h5>
                                       <p class="card-text">→폰트 사용</p>
-                                      <p><a href="https://noonnu.cc/font_page/1" class="btn btn-primary">홈페이지</a></p>
+                                      <p><a href="https://design.godo.co.kr/custom/free-font.php" class="btn btn-primary">홈페이지</a></p>
 
                                   </div></div><br><br>
 
