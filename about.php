@@ -29,10 +29,10 @@
               <div class="d-flex flex-column">
                   <h1 class="text align-self-center">「About」</h1><br><br>
 
-                  <session class="news">
                       <div class="container">
                           <div class="col-lg-8 mx-auto">
                               <div class="card">
+
                                   <div class="card-header">
                                       사용한 소스
                                   </div>
@@ -65,7 +65,8 @@
                                       <h5 class="card-title">#코로나 api</h5>
                                       <p class="card-text">→확진자, 뉴스 정보</p>
                                       <p><a href="https://github.com/zeroday0619/COVID-19API" class="btn btn-primary">홈페이지</a>
-                                          <a href="https://github.com/zeroday0619/COVID-19API/blob/master/LICENSE" class="btn btn-success">License</a></p>
+                                          <a href="https://github.com/zeroday0619/COVID-19API/blob/master/LICENSE" class="btn btn-success">License</a>
+                                          <a href="http://pvc19.kro.kr:8000/docs" class="btn btn-dark">사용api주소</a></p>
 
                                       <h5 class="card-title">#버튼 디자인 참고</h5>
                                       <p class="card-text">→버튼 디자인</p>
@@ -101,8 +102,8 @@
                                           <h5 class="card-title">윈도우</h5>
                                           <a href="https://github.com/ChangMun00" class="btn btn-primary">GitHub</a>
                                               <a href="https://winsub.kr/" class="btn btn-primary">사이트</a>
-                          </div></div><br><br>
-              </session>
+                                  </div></div><br><br>
+                          </div></div></div></header>
 
 <?php
 // 풋터불러오기!
